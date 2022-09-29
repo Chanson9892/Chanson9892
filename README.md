@@ -1,7 +1,8 @@
 ### Hi there, I am Chandler
 
-## I am a Software Engineer at T-Mobile via Infosys
-<br />
+## I am a Software Engineer
+
+- Software Engineer on Supply Chain Management Devops team with T-Mobile via Infosys
 
 ---
 
