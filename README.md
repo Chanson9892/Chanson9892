@@ -1,8 +1,6 @@
 ### Hi there, I am Chandler
 
-## I am a Full Stack web Developer
-
-- I am currently practicing algorithms and data structures
+## I am a Software Engineer at T-Mobile via Infosys
 <br />
 
 ---
