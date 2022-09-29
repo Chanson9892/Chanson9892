@@ -2,7 +2,7 @@
 
 ## I am a Software Engineer
 
-- Software Engineer on Supply Chain Management Devops team with T-Mobile via Infosys
+Software Engineer on Supply Chain Management Devops team with T-Mobile via Infosys
 
 ---
 
